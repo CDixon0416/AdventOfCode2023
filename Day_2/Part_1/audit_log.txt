@@ -1,0 +1,944 @@
+2024-02-02 19:55:28.474906
+Beginning analysis of Game 1:
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 0 to 8
+	green_local_max changed from 8 to 14
+	blue_local_max changed from 1 to 15
+	red_local_max changed from 0 to 1
+		local_max_tuple set to: [1, 15, 14]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	1 is NOT a valid game.
+Beginning analysis of Game 2:
+	blue_local_max changed from 0 to 3
+	green_local_max changed from 0 to 1
+	red_local_max changed from 0 to 2
+	green_local_max changed from 1 to 2
+	blue_local_max changed from 3 to 5
+	green_local_max changed from 2 to 3
+	blue_local_max changed from 5 to 10
+	red_local_max changed from 2 to 8
+		local_max_tuple set to: [8, 10, 3]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	2 is a valid game.
+Beginning analysis of Game 3:
+	green_local_max changed from 0 to 4
+	blue_local_max changed from 0 to 1
+	blue_local_max changed from 1 to 6
+	green_local_max changed from 4 to 5
+	red_local_max changed from 0 to 1
+	green_local_max changed from 5 to 11
+	blue_local_max changed from 6 to 10
+		local_max_tuple set to: [1, 10, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	3 is a valid game.
+Beginning analysis of Game 4:
+	blue_local_max changed from 0 to 12
+	green_local_max changed from 0 to 12
+	red_local_max changed from 0 to 3
+	blue_local_max changed from 12 to 15
+	red_local_max changed from 3 to 10
+	red_local_max changed from 10 to 14
+		local_max_tuple set to: [14, 15, 12]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	4 is NOT a valid game.
+Beginning analysis of Game 5:
+	blue_local_max changed from 0 to 7
+	red_local_max changed from 0 to 8
+	green_local_max changed from 0 to 5
+	blue_local_max changed from 7 to 15
+	red_local_max changed from 8 to 16
+	green_local_max changed from 5 to 14
+		local_max_tuple set to: [16, 15, 14]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	5 is NOT a valid game.
+Beginning analysis of Game 6:
+	blue_local_max changed from 0 to 4
+	red_local_max changed from 0 to 13
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 4 to 13
+	blue_local_max changed from 13 to 19
+		local_max_tuple set to: [13, 19, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	6 is NOT a valid game.
+Beginning analysis of Game 7:
+	green_local_max changed from 0 to 8
+	blue_local_max changed from 0 to 3
+	red_local_max changed from 0 to 3
+	blue_local_max changed from 3 to 10
+	red_local_max changed from 3 to 11
+		local_max_tuple set to: [11, 10, 8]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	7 is a valid game.
+Beginning analysis of Game 8:
+	red_local_max changed from 0 to 10
+	green_local_max changed from 0 to 6
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 6 to 15
+	blue_local_max changed from 1 to 3
+	blue_local_max changed from 3 to 5
+		local_max_tuple set to: [10, 5, 15]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	8 is NOT a valid game.
+Beginning analysis of Game 9:
+	green_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 8
+	red_local_max changed from 0 to 1
+	red_local_max changed from 1 to 10
+	blue_local_max changed from 8 to 13
+	red_local_max changed from 10 to 12
+	green_local_max changed from 2 to 7
+		local_max_tuple set to: [12, 13, 7]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	9 is NOT a valid game.
+Beginning analysis of Game 10:
+	blue_local_max changed from 0 to 2
+	red_local_max changed from 0 to 8
+	green_local_max changed from 0 to 10
+		local_max_tuple set to: [8, 2, 10]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	10 is a valid game.
+Beginning analysis of Game 11:
+	green_local_max changed from 0 to 8
+	blue_local_max changed from 0 to 1
+	blue_local_max changed from 1 to 2
+	green_local_max changed from 8 to 11
+	red_local_max changed from 0 to 1
+	green_local_max changed from 11 to 12
+		local_max_tuple set to: [1, 2, 12]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	11 is a valid game.
+Beginning analysis of Game 12:
+	red_local_max changed from 0 to 3
+	green_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 15
+	red_local_max changed from 3 to 4
+		local_max_tuple set to: [4, 15, 2]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	12 is NOT a valid game.
+Beginning analysis of Game 13:
+	blue_local_max changed from 0 to 7
+	red_local_max changed from 0 to 5
+	red_local_max changed from 5 to 7
+	green_local_max changed from 0 to 3
+	blue_local_max changed from 7 to 9
+	green_local_max changed from 3 to 9
+	red_local_max changed from 7 to 8
+	red_local_max changed from 8 to 11
+		local_max_tuple set to: [11, 9, 9]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	13 is a valid game.
+Beginning analysis of Game 14:
+	blue_local_max changed from 0 to 4
+	green_local_max changed from 0 to 6
+	red_local_max changed from 0 to 7
+	red_local_max changed from 7 to 8
+	blue_local_max changed from 4 to 11
+	red_local_max changed from 8 to 9
+	blue_local_max changed from 11 to 13
+		local_max_tuple set to: [9, 13, 6]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	14 is a valid game.
+Beginning analysis of Game 15:
+	green_local_max changed from 0 to 3
+	blue_local_max changed from 0 to 1
+	red_local_max changed from 0 to 5
+	green_local_max changed from 3 to 4
+		local_max_tuple set to: [5, 1, 4]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	15 is a valid game.
+Beginning analysis of Game 16:
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 7
+	red_local_max changed from 0 to 3
+	blue_local_max changed from 7 to 13
+		local_max_tuple set to: [3, 13, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	16 is a valid game.
+Beginning analysis of Game 17:
+	blue_local_max changed from 0 to 4
+	red_local_max changed from 0 to 2
+	green_local_max changed from 0 to 4
+	red_local_max changed from 2 to 7
+	blue_local_max changed from 4 to 10
+	green_local_max changed from 4 to 14
+		local_max_tuple set to: [7, 10, 14]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	17 is NOT a valid game.
+Beginning analysis of Game 18:
+	blue_local_max changed from 0 to 7
+	green_local_max changed from 0 to 5
+	red_local_max changed from 0 to 1
+	green_local_max changed from 5 to 6
+		local_max_tuple set to: [1, 7, 6]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	18 is a valid game.
+Beginning analysis of Game 19:
+	blue_local_max changed from 0 to 10
+	red_local_max changed from 0 to 3
+	green_local_max changed from 0 to 6
+	red_local_max changed from 3 to 4
+	green_local_max changed from 6 to 17
+	green_local_max changed from 17 to 19
+		local_max_tuple set to: [4, 10, 19]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	19 is NOT a valid game.
+Beginning analysis of Game 20:
+	blue_local_max changed from 0 to 3
+	red_local_max changed from 0 to 6
+	green_local_max changed from 0 to 1
+	green_local_max changed from 1 to 6
+	red_local_max changed from 6 to 7
+	blue_local_max changed from 3 to 18
+	red_local_max changed from 7 to 8
+		local_max_tuple set to: [8, 18, 6]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	20 is NOT a valid game.
+Beginning analysis of Game 21:
+	blue_local_max changed from 0 to 16
+	green_local_max changed from 0 to 7
+	red_local_max changed from 0 to 13
+		local_max_tuple set to: [13, 16, 7]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	21 is NOT a valid game.
+Beginning analysis of Game 22:
+	blue_local_max changed from 0 to 14
+	red_local_max changed from 0 to 6
+	green_local_max changed from 0 to 1
+	red_local_max changed from 6 to 9
+	red_local_max changed from 9 to 13
+		local_max_tuple set to: [13, 14, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	22 is NOT a valid game.
+Beginning analysis of Game 23:
+	red_local_max changed from 0 to 17
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 0 to 13
+	green_local_max changed from 13 to 19
+		local_max_tuple set to: [17, 1, 19]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	23 is NOT a valid game.
+Beginning analysis of Game 24:
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 2
+	green_local_max changed from 1 to 10
+	blue_local_max changed from 2 to 4
+	blue_local_max changed from 4 to 8
+	green_local_max changed from 10 to 11
+	red_local_max changed from 0 to 14
+		local_max_tuple set to: [14, 8, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	24 is NOT a valid game.
+Beginning analysis of Game 25:
+	blue_local_max changed from 0 to 9
+	red_local_max changed from 0 to 10
+	green_local_max changed from 0 to 7
+	blue_local_max changed from 9 to 12
+		local_max_tuple set to: [10, 12, 7]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	25 is a valid game.
+Beginning analysis of Game 26:
+	red_local_max changed from 0 to 9
+	blue_local_max changed from 0 to 2
+	green_local_max changed from 0 to 5
+	green_local_max changed from 5 to 13
+		local_max_tuple set to: [9, 2, 13]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	26 is NOT a valid game.
+Beginning analysis of Game 27:
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 14
+	red_local_max changed from 0 to 2
+	red_local_max changed from 2 to 9
+	green_local_max changed from 1 to 7
+	red_local_max changed from 9 to 10
+		local_max_tuple set to: [10, 14, 7]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	27 is NOT a valid game.
+Beginning analysis of Game 28:
+	red_local_max changed from 0 to 11
+	blue_local_max changed from 0 to 13
+	green_local_max changed from 0 to 12
+		local_max_tuple set to: [11, 13, 12]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	28 is a valid game.
+Beginning analysis of Game 29:
+	green_local_max changed from 0 to 5
+	red_local_max changed from 0 to 16
+	blue_local_max changed from 0 to 1
+	blue_local_max changed from 1 to 6
+	blue_local_max changed from 6 to 7
+		local_max_tuple set to: [16, 7, 5]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	29 is NOT a valid game.
+Beginning analysis of Game 30:
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 2
+	red_local_max changed from 0 to 2
+	blue_local_max changed from 2 to 7
+	red_local_max changed from 2 to 5
+	red_local_max changed from 5 to 6
+		local_max_tuple set to: [6, 7, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	30 is a valid game.
+Beginning analysis of Game 31:
+	green_local_max changed from 0 to 5
+	blue_local_max changed from 0 to 7
+	red_local_max changed from 0 to 14
+	red_local_max changed from 14 to 19
+	green_local_max changed from 5 to 9
+	blue_local_max changed from 7 to 9
+	blue_local_max changed from 9 to 12
+	red_local_max changed from 19 to 20
+	green_local_max changed from 9 to 12
+		local_max_tuple set to: [20, 12, 12]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	31 is NOT a valid game.
+Beginning analysis of Game 32:
+	blue_local_max changed from 0 to 6
+	red_local_max changed from 0 to 6
+	green_local_max changed from 0 to 8
+	red_local_max changed from 6 to 7
+	blue_local_max changed from 6 to 8
+		local_max_tuple set to: [7, 8, 8]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	32 is a valid game.
+Beginning analysis of Game 33:
+	red_local_max changed from 0 to 5
+	green_local_max changed from 0 to 15
+	blue_local_max changed from 0 to 3
+	red_local_max changed from 5 to 8
+	blue_local_max changed from 3 to 6
+	green_local_max changed from 15 to 17
+		local_max_tuple set to: [8, 6, 17]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	33 is NOT a valid game.
+Beginning analysis of Game 34:
+	blue_local_max changed from 0 to 12
+	green_local_max changed from 0 to 1
+	red_local_max changed from 0 to 3
+	blue_local_max changed from 12 to 14
+	blue_local_max changed from 14 to 16
+		local_max_tuple set to: [3, 16, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	34 is NOT a valid game.
+Beginning analysis of Game 35:
+	red_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 16
+	blue_local_max changed from 16 to 17
+	green_local_max changed from 0 to 5
+		local_max_tuple set to: [2, 17, 5]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	35 is NOT a valid game.
+Beginning analysis of Game 36:
+	blue_local_max changed from 0 to 7
+	red_local_max changed from 0 to 8
+	green_local_max changed from 0 to 4
+	green_local_max changed from 4 to 13
+	blue_local_max changed from 7 to 14
+	green_local_max changed from 13 to 17
+		local_max_tuple set to: [8, 14, 17]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	36 is NOT a valid game.
+Beginning analysis of Game 37:
+	green_local_max changed from 0 to 5
+	red_local_max changed from 0 to 14
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 5 to 11
+	red_local_max changed from 14 to 18
+		local_max_tuple set to: [18, 1, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	37 is NOT a valid game.
+Beginning analysis of Game 38:
+	red_local_max changed from 0 to 5
+	green_local_max changed from 0 to 9
+	blue_local_max changed from 0 to 11
+	red_local_max changed from 5 to 7
+		local_max_tuple set to: [7, 11, 9]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	38 is a valid game.
+Beginning analysis of Game 39:
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 0 to 7
+	red_local_max changed from 0 to 6
+	green_local_max changed from 7 to 18
+	green_local_max changed from 18 to 19
+	blue_local_max changed from 1 to 3
+	red_local_max changed from 6 to 9
+		local_max_tuple set to: [9, 3, 19]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	39 is NOT a valid game.
+Beginning analysis of Game 40:
+	red_local_max changed from 0 to 14
+	green_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 2
+	green_local_max changed from 2 to 4
+	red_local_max changed from 14 to 17
+		local_max_tuple set to: [17, 2, 4]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	40 is NOT a valid game.
+Beginning analysis of Game 41:
+	green_local_max changed from 0 to 11
+	red_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 1
+	blue_local_max changed from 1 to 2
+	green_local_max changed from 11 to 18
+	red_local_max changed from 1 to 3
+	red_local_max changed from 3 to 8
+	red_local_max changed from 8 to 14
+		local_max_tuple set to: [14, 2, 18]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	41 is NOT a valid game.
+Beginning analysis of Game 42:
+	red_local_max changed from 0 to 2
+	green_local_max changed from 0 to 3
+	blue_local_max changed from 0 to 15
+	blue_local_max changed from 15 to 18
+		local_max_tuple set to: [2, 18, 3]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	42 is NOT a valid game.
+Beginning analysis of Game 43:
+	green_local_max changed from 0 to 4
+	blue_local_max changed from 0 to 2
+	blue_local_max changed from 2 to 10
+	red_local_max changed from 0 to 2
+	green_local_max changed from 4 to 14
+	blue_local_max changed from 10 to 11
+	red_local_max changed from 2 to 8
+		local_max_tuple set to: [8, 11, 14]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	43 is NOT a valid game.
+Beginning analysis of Game 44:
+	red_local_max changed from 0 to 10
+	blue_local_max changed from 0 to 8
+	green_local_max changed from 0 to 1
+	green_local_max changed from 1 to 5
+	red_local_max changed from 10 to 17
+	red_local_max changed from 17 to 18
+	blue_local_max changed from 8 to 11
+		local_max_tuple set to: [18, 11, 5]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	44 is NOT a valid game.
+Beginning analysis of Game 45:
+	blue_local_max changed from 0 to 10
+	green_local_max changed from 0 to 5
+	blue_local_max changed from 10 to 14
+	green_local_max changed from 5 to 10
+	red_local_max changed from 0 to 1
+	blue_local_max changed from 14 to 18
+	green_local_max changed from 10 to 12
+		local_max_tuple set to: [1, 18, 12]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	45 is NOT a valid game.
+Beginning analysis of Game 46:
+	blue_local_max changed from 0 to 2
+	green_local_max changed from 0 to 2
+	green_local_max changed from 2 to 3
+	red_local_max changed from 0 to 1
+		local_max_tuple set to: [1, 2, 3]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	46 is a valid game.
+Beginning analysis of Game 47:
+	blue_local_max changed from 0 to 6
+	red_local_max changed from 0 to 1
+	green_local_max changed from 0 to 12
+	red_local_max changed from 1 to 2
+	green_local_max changed from 12 to 13
+	red_local_max changed from 2 to 6
+		local_max_tuple set to: [6, 6, 13]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	47 is NOT a valid game.
+Beginning analysis of Game 48:
+	green_local_max changed from 0 to 4
+	red_local_max changed from 0 to 5
+	green_local_max changed from 4 to 19
+	blue_local_max changed from 0 to 1
+	red_local_max changed from 5 to 11
+		local_max_tuple set to: [11, 1, 19]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	48 is NOT a valid game.
+Beginning analysis of Game 49:
+	red_local_max changed from 0 to 12
+	blue_local_max changed from 0 to 2
+	green_local_max changed from 0 to 6
+		local_max_tuple set to: [12, 2, 6]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	49 is NOT a valid game.
+Beginning analysis of Game 50:
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 1
+	red_local_max changed from 0 to 17
+	blue_local_max changed from 1 to 2
+		local_max_tuple set to: [17, 2, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	50 is NOT a valid game.
+Beginning analysis of Game 51:
+	green_local_max changed from 0 to 12
+	blue_local_max changed from 0 to 9
+	red_local_max changed from 0 to 1
+	green_local_max changed from 12 to 14
+	red_local_max changed from 1 to 2
+	blue_local_max changed from 9 to 12
+		local_max_tuple set to: [2, 12, 14]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	51 is NOT a valid game.
+Beginning analysis of Game 52:
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 7
+	red_local_max changed from 0 to 3
+	red_local_max changed from 3 to 5
+	green_local_max changed from 1 to 5
+	green_local_max changed from 5 to 7
+	red_local_max changed from 5 to 6
+		local_max_tuple set to: [6, 7, 7]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	52 is a valid game.
+Beginning analysis of Game 53:
+	blue_local_max changed from 0 to 3
+	red_local_max changed from 0 to 1
+	green_local_max changed from 0 to 3
+	blue_local_max changed from 3 to 5
+		local_max_tuple set to: [1, 5, 3]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	53 is a valid game.
+Beginning analysis of Game 54:
+	blue_local_max changed from 0 to 13
+	red_local_max changed from 0 to 3
+	blue_local_max changed from 13 to 17
+	green_local_max changed from 0 to 1
+	red_local_max changed from 3 to 8
+	green_local_max changed from 1 to 2
+		local_max_tuple set to: [8, 17, 2]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	54 is NOT a valid game.
+Beginning analysis of Game 55:
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 3
+	red_local_max changed from 0 to 5
+	blue_local_max changed from 3 to 10
+	blue_local_max changed from 10 to 17
+		local_max_tuple set to: [5, 17, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	55 is NOT a valid game.
+Beginning analysis of Game 56:
+	blue_local_max changed from 0 to 4
+	green_local_max changed from 0 to 12
+	red_local_max changed from 0 to 12
+	blue_local_max changed from 4 to 10
+		local_max_tuple set to: [12, 10, 12]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	56 is NOT a valid game.
+Beginning analysis of Game 57:
+	green_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 8
+	red_local_max changed from 0 to 3
+	blue_local_max changed from 8 to 17
+	red_local_max changed from 3 to 9
+		local_max_tuple set to: [9, 17, 2]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	57 is NOT a valid game.
+Beginning analysis of Game 58:
+	blue_local_max changed from 0 to 4
+	red_local_max changed from 0 to 1
+	green_local_max changed from 0 to 1
+	red_local_max changed from 1 to 2
+	green_local_max changed from 1 to 5
+	green_local_max changed from 5 to 7
+	blue_local_max changed from 4 to 5
+		local_max_tuple set to: [2, 5, 7]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	58 is a valid game.
+Beginning analysis of Game 59:
+	green_local_max changed from 0 to 4
+	red_local_max changed from 0 to 5
+	red_local_max changed from 5 to 7
+	blue_local_max changed from 0 to 1
+	red_local_max changed from 7 to 15
+	green_local_max changed from 4 to 8
+		local_max_tuple set to: [15, 1, 8]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	59 is NOT a valid game.
+Beginning analysis of Game 60:
+	green_local_max changed from 0 to 6
+	red_local_max changed from 0 to 3
+	red_local_max changed from 3 to 4
+	blue_local_max changed from 0 to 4
+	red_local_max changed from 4 to 7
+		local_max_tuple set to: [7, 4, 6]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	60 is a valid game.
+Beginning analysis of Game 61:
+	red_local_max changed from 0 to 7
+	blue_local_max changed from 0 to 10
+	green_local_max changed from 0 to 7
+	blue_local_max changed from 10 to 11
+	green_local_max changed from 7 to 9
+	red_local_max changed from 7 to 11
+	red_local_max changed from 11 to 13
+		local_max_tuple set to: [13, 11, 9]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	61 is NOT a valid game.
+Beginning analysis of Game 62:
+	green_local_max changed from 0 to 10
+	red_local_max changed from 0 to 9
+	blue_local_max changed from 0 to 6
+	red_local_max changed from 9 to 10
+	green_local_max changed from 10 to 11
+		local_max_tuple set to: [10, 6, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	62 is a valid game.
+Beginning analysis of Game 63:
+	green_local_max changed from 0 to 10
+	blue_local_max changed from 0 to 2
+	red_local_max changed from 0 to 1
+		local_max_tuple set to: [1, 2, 10]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	63 is a valid game.
+Beginning analysis of Game 64:
+	green_local_max changed from 0 to 2
+	red_local_max changed from 0 to 8
+	green_local_max changed from 2 to 4
+	blue_local_max changed from 0 to 2
+		local_max_tuple set to: [8, 2, 4]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	64 is a valid game.
+Beginning analysis of Game 65:
+	red_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 16
+	green_local_max changed from 0 to 5
+	red_local_max changed from 2 to 3
+		local_max_tuple set to: [3, 16, 5]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	65 is NOT a valid game.
+Beginning analysis of Game 66:
+	green_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 3
+	red_local_max changed from 0 to 1
+	blue_local_max changed from 3 to 4
+	green_local_max changed from 2 to 3
+	blue_local_max changed from 4 to 5
+		local_max_tuple set to: [1, 5, 3]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	66 is a valid game.
+Beginning analysis of Game 67:
+	blue_local_max changed from 0 to 2
+	red_local_max changed from 0 to 11
+	green_local_max changed from 0 to 8
+	blue_local_max changed from 2 to 13
+	red_local_max changed from 11 to 19
+	green_local_max changed from 8 to 13
+	green_local_max changed from 13 to 16
+		local_max_tuple set to: [19, 13, 16]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	67 is NOT a valid game.
+Beginning analysis of Game 68:
+	blue_local_max changed from 0 to 1
+	red_local_max changed from 0 to 9
+	green_local_max changed from 0 to 7
+	blue_local_max changed from 1 to 4
+	blue_local_max changed from 4 to 5
+	green_local_max changed from 7 to 8
+		local_max_tuple set to: [9, 5, 8]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	68 is a valid game.
+Beginning analysis of Game 69:
+	green_local_max changed from 0 to 10
+	red_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 2
+	green_local_max changed from 10 to 11
+	blue_local_max changed from 2 to 3
+		local_max_tuple set to: [1, 3, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	69 is a valid game.
+Beginning analysis of Game 70:
+	red_local_max changed from 0 to 8
+	blue_local_max changed from 0 to 15
+	green_local_max changed from 0 to 18
+	red_local_max changed from 8 to 9
+	red_local_max changed from 9 to 10
+		local_max_tuple set to: [10, 15, 18]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	70 is NOT a valid game.
+Beginning analysis of Game 71:
+	red_local_max changed from 0 to 10
+	green_local_max changed from 0 to 10
+	blue_local_max changed from 0 to 6
+	red_local_max changed from 10 to 13
+	blue_local_max changed from 6 to 12
+		local_max_tuple set to: [13, 12, 10]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	71 is NOT a valid game.
+Beginning analysis of Game 72:
+	red_local_max changed from 0 to 12
+	blue_local_max changed from 0 to 5
+	red_local_max changed from 12 to 13
+	green_local_max changed from 0 to 6
+	blue_local_max changed from 5 to 11
+	green_local_max changed from 6 to 11
+		local_max_tuple set to: [13, 11, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	72 is NOT a valid game.
+Beginning analysis of Game 73:
+	blue_local_max changed from 0 to 8
+	red_local_max changed from 0 to 1
+	green_local_max changed from 0 to 3
+	green_local_max changed from 3 to 4
+		local_max_tuple set to: [1, 8, 4]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	73 is a valid game.
+Beginning analysis of Game 74:
+	red_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 3
+	green_local_max changed from 0 to 8
+	green_local_max changed from 8 to 18
+		local_max_tuple set to: [1, 3, 18]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	74 is NOT a valid game.
+Beginning analysis of Game 75:
+	blue_local_max changed from 0 to 4
+	red_local_max changed from 0 to 1
+	green_local_max changed from 0 to 3
+	blue_local_max changed from 4 to 6
+	green_local_max changed from 3 to 11
+	red_local_max changed from 1 to 3
+	red_local_max changed from 3 to 4
+		local_max_tuple set to: [4, 6, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	75 is a valid game.
+Beginning analysis of Game 76:
+	blue_local_max changed from 0 to 7
+	blue_local_max changed from 7 to 15
+	red_local_max changed from 0 to 2
+	green_local_max changed from 0 to 1
+	red_local_max changed from 2 to 5
+		local_max_tuple set to: [5, 15, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	76 is NOT a valid game.
+Beginning analysis of Game 77:
+	blue_local_max changed from 0 to 12
+	green_local_max changed from 0 to 8
+	red_local_max changed from 0 to 15
+	red_local_max changed from 15 to 19
+	green_local_max changed from 8 to 16
+		local_max_tuple set to: [19, 12, 16]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	77 is NOT a valid game.
+Beginning analysis of Game 78:
+	red_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 7
+	green_local_max changed from 0 to 14
+	red_local_max changed from 2 to 10
+		local_max_tuple set to: [10, 7, 14]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	78 is NOT a valid game.
+Beginning analysis of Game 79:
+	red_local_max changed from 0 to 3
+	green_local_max changed from 0 to 5
+	blue_local_max changed from 0 to 2
+	green_local_max changed from 5 to 18
+	red_local_max changed from 3 to 4
+	red_local_max changed from 4 to 7
+		local_max_tuple set to: [7, 2, 18]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	79 is NOT a valid game.
+Beginning analysis of Game 80:
+	green_local_max changed from 0 to 8
+	red_local_max changed from 0 to 5
+	blue_local_max changed from 0 to 9
+	blue_local_max changed from 9 to 14
+	red_local_max changed from 5 to 13
+	red_local_max changed from 13 to 16
+	blue_local_max changed from 14 to 16
+		local_max_tuple set to: [16, 16, 8]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	80 is NOT a valid game.
+Beginning analysis of Game 81:
+	green_local_max changed from 0 to 10
+	red_local_max changed from 0 to 10
+	blue_local_max changed from 0 to 4
+	red_local_max changed from 10 to 13
+	blue_local_max changed from 4 to 7
+		local_max_tuple set to: [13, 7, 10]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	81 is NOT a valid game.
+Beginning analysis of Game 82:
+	blue_local_max changed from 0 to 1
+	red_local_max changed from 0 to 4
+	green_local_max changed from 0 to 7
+	blue_local_max changed from 1 to 2
+	red_local_max changed from 4 to 6
+	blue_local_max changed from 2 to 5
+		local_max_tuple set to: [6, 5, 7]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	82 is a valid game.
+Beginning analysis of Game 83:
+	red_local_max changed from 0 to 3
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 0 to 2
+	blue_local_max changed from 1 to 6
+	green_local_max changed from 2 to 6
+	blue_local_max changed from 6 to 11
+	red_local_max changed from 3 to 4
+	green_local_max changed from 6 to 10
+		local_max_tuple set to: [4, 11, 10]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	83 is a valid game.
+Beginning analysis of Game 84:
+	red_local_max changed from 0 to 9
+	green_local_max changed from 0 to 12
+	blue_local_max changed from 0 to 1
+	blue_local_max changed from 1 to 3
+	blue_local_max changed from 3 to 8
+	red_local_max changed from 9 to 11
+		local_max_tuple set to: [11, 8, 12]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	84 is a valid game.
+Beginning analysis of Game 85:
+	blue_local_max changed from 0 to 2
+	red_local_max changed from 0 to 2
+	blue_local_max changed from 2 to 3
+	red_local_max changed from 2 to 3
+	green_local_max changed from 0 to 2
+	green_local_max changed from 2 to 4
+		local_max_tuple set to: [3, 3, 4]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	85 is a valid game.
+Beginning analysis of Game 86:
+	green_local_max changed from 0 to 2
+	blue_local_max changed from 0 to 5
+	red_local_max changed from 0 to 9
+	blue_local_max changed from 5 to 6
+		local_max_tuple set to: [9, 6, 2]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	86 is a valid game.
+Beginning analysis of Game 87:
+	red_local_max changed from 0 to 17
+	blue_local_max changed from 0 to 3
+	green_local_max changed from 0 to 2
+	blue_local_max changed from 3 to 5
+	green_local_max changed from 2 to 3
+		local_max_tuple set to: [17, 5, 3]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	87 is NOT a valid game.
+Beginning analysis of Game 88:
+	green_local_max changed from 0 to 7
+	blue_local_max changed from 0 to 1
+	red_local_max changed from 0 to 1
+	green_local_max changed from 7 to 10
+		local_max_tuple set to: [1, 1, 10]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	88 is a valid game.
+Beginning analysis of Game 89:
+	red_local_max changed from 0 to 6
+	blue_local_max changed from 0 to 11
+	green_local_max changed from 0 to 3
+	green_local_max changed from 3 to 4
+	red_local_max changed from 6 to 17
+	blue_local_max changed from 11 to 17
+	green_local_max changed from 4 to 9
+		local_max_tuple set to: [17, 17, 9]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	89 is NOT a valid game.
+Beginning analysis of Game 90:
+	red_local_max changed from 0 to 9
+	green_local_max changed from 0 to 4
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 4 to 6
+	blue_local_max changed from 1 to 11
+		local_max_tuple set to: [9, 11, 6]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	90 is a valid game.
+Beginning analysis of Game 91:
+	red_local_max changed from 0 to 3
+	blue_local_max changed from 0 to 7
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 7 to 11
+	green_local_max changed from 1 to 3
+	red_local_max changed from 3 to 4
+	red_local_max changed from 4 to 10
+		local_max_tuple set to: [10, 11, 3]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	91 is a valid game.
+Beginning analysis of Game 92:
+	blue_local_max changed from 0 to 2
+	red_local_max changed from 0 to 1
+	red_local_max changed from 1 to 7
+	green_local_max changed from 0 to 4
+	red_local_max changed from 7 to 11
+	blue_local_max changed from 2 to 5
+		local_max_tuple set to: [11, 5, 4]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	92 is a valid game.
+Beginning analysis of Game 93:
+	red_local_max changed from 0 to 13
+	green_local_max changed from 0 to 11
+	blue_local_max changed from 0 to 10
+		local_max_tuple set to: [13, 10, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	93 is NOT a valid game.
+Beginning analysis of Game 94:
+	green_local_max changed from 0 to 9
+	blue_local_max changed from 0 to 8
+	red_local_max changed from 0 to 4
+	red_local_max changed from 4 to 5
+	green_local_max changed from 9 to 16
+		local_max_tuple set to: [5, 8, 16]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	94 is NOT a valid game.
+Beginning analysis of Game 95:
+	green_local_max changed from 0 to 9
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 9 to 16
+	red_local_max changed from 0 to 2
+		local_max_tuple set to: [2, 1, 16]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	95 is NOT a valid game.
+Beginning analysis of Game 96:
+	green_local_max changed from 0 to 6
+	red_local_max changed from 0 to 8
+	blue_local_max changed from 0 to 5
+	green_local_max changed from 6 to 14
+	red_local_max changed from 8 to 17
+	green_local_max changed from 14 to 15
+	green_local_max changed from 15 to 16
+	red_local_max changed from 17 to 18
+	blue_local_max changed from 5 to 6
+		local_max_tuple set to: [18, 6, 16]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	96 is NOT a valid game.
+Beginning analysis of Game 97:
+	green_local_max changed from 0 to 9
+	red_local_max changed from 0 to 8
+	blue_local_max changed from 0 to 11
+	green_local_max changed from 9 to 11
+	red_local_max changed from 8 to 13
+		local_max_tuple set to: [13, 11, 11]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	97 is NOT a valid game.
+Beginning analysis of Game 98:
+	green_local_max changed from 0 to 1
+	blue_local_max changed from 0 to 12
+	red_local_max changed from 0 to 4
+	red_local_max changed from 4 to 5
+	red_local_max changed from 5 to 7
+		local_max_tuple set to: [7, 12, 1]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	98 is a valid game.
+Beginning analysis of Game 99:
+	blue_local_max changed from 0 to 1
+	green_local_max changed from 0 to 2
+	red_local_max changed from 0 to 2
+	green_local_max changed from 2 to 8
+	green_local_max changed from 8 to 14
+		local_max_tuple set to: [2, 1, 14]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	99 is NOT a valid game.
+Beginning analysis of Game 100:
+	green_local_max changed from 0 to 6
+	red_local_max changed from 0 to 15
+	blue_local_max changed from 0 to 12
+	red_local_max changed from 15 to 16
+	red_local_max changed from 16 to 17
+	green_local_max changed from 6 to 7
+		local_max_tuple set to: [17, 12, 7]
+		Is it smaller than max_tuple?: [12, 14, 13]
+	100 is NOT a valid game.
