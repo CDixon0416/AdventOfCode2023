@@ -47,7 +47,7 @@ def valid_game_result(game, log):
 
     log.write("\t\tIs it smaller than max_tuple?: " + str(max_tuple) + "\n")
 
-    if local_max_tuple[0] < max_tuple[0] and local_max_tuple[1] < max_tuple[1] and local_max_tuple[2] < max_tuple[2]:
+    if local_max_tuple[0] <= max_tuple[0] and local_max_tuple[1] <= max_tuple[1] and local_max_tuple[2] <= max_tuple[2]:
         log.write("\t" + game_id[0] + " is a valid game.\n")
         return game_id[0]
     else:
